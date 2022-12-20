@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Panos 
+- Monty Byron is an alt diriving from Monty Python and Lord Byron (local memorial personality)
+- I am a Business Computing and IT graduate who is trying to embrace his IT side
+- Currently planning on finding a masters in Computer Science 
+- I'll add what I've made here at some point
