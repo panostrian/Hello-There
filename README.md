@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Panos 
-- I am a Business Computing and IT graduate who is trying to embrace his IT side
-- Currently planning on finding a masters in Computer Science 
+- I am a Business Computing and IT graduate and I am trying to further develop my IT skills
+- Currently searching for a masters in Computer Science 
+- My current knowledge is intermadiate in C++
+- My current focus is on Web development (Bootstrap,React, HTML/CSS/JS)
+- I also try to learn Python and Java
 - I'll add what I've made here at some point
