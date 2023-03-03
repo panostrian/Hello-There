@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Panos 
-- I am a Business Computing and IT graduate and I am trying to further develop my IT skills
-- Currently searching for a masters in Computer Science 
-- My current knowledge is intermadiate in C++
-- My current focus is on Web development (Bootstrap,React, HTML/CSS/JS)
-- I also try to learn Python and Java
-- I'll add what I've made here at some point
+- 👋 Hi, I’m Panos.
+- I am a Business Computing and IT graduate and I am trying to further develop my IT skills.
+- Currently searching for a masters in Computer Science.
+- My current knowledge is intermadiate in C++ and begginer in Python.
+- My current focus is on Web development (Bootstrap,React, HTML/CSS/JS) and JAVA (doing semester courses from The University of Athens.
+- I aspire to be a fullstact software developer, or generaly find a software related job.
+- I am gradually adding the work I've made here, while I'm getting familliar with the environment.
